@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">timer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_timer_one">Timer one</string>
+    <string name="title_timer_two">Timer two</string>
+    <string name="title_timer_three">Timer three</string>
+    <string name="timer_three">Timer Three</string>
+    <string name="timer_one">Timer One</string>
+    <string name="timer_two">Timer Two</string>
+</resources>

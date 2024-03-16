@@ -1,0 +1,22 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_timer_one">
+
+    <fragment
+        android:id="@+id/navigation_timer_one"
+        android:name="com.example.timer.ui.TimerOne.FragmentTimerOne"
+        android:label="@string/title_timer_one"
+        tools:layout="@layout/fragment_timer_one" />
+    <fragment
+        android:id="@+id/navigation_timer_two"
+        android:name="com.example.timer.ui.TimerTwo.FragmentTimerTwo"
+        android:label="@string/title_timer_two"
+        tools:layout="@layout/fragment_timer_two"/>
+    <fragment
+        android:id="@+id/navigation_timer_three"
+        android:name="com.example.timer.ui.TimerThree.FragmentTimerThree"
+        android:label="@string/title_timer_three"
+        tools:layout="@layout/fragment_timer_three"/>
+</navigation>

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_timer_one"
+        android:icon="@drawable/timer1"
+        android:title="@string/title_timer_one" />
+    <item
+        android:id="@+id/navigation_timer_two"
+        android:icon="@drawable/timer1"
+        android:title="@string/title_timer_two" />
+    <item
+        android:id="@+id/navigation_timer_three"
+        android:icon="@drawable/timer1"
+        android:title="@string/title_timer_three" />
+</menu>
